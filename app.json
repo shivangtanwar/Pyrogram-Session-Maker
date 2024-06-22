@@ -5,13 +5,13 @@
     "description": "—••÷[🧊SΣSSIӨП_MΛKΣЯ🧊]÷••—",
     "website": "https://t.me/Krakns",
     "env": {
-    "API_ID":{
+    "API_ID":{"24254281",
     "description":"api_id part of your Telegram API Key From @HVApiBot Only",
     "required":true},
-    "BOT_TOKEN":{
+    "BOT_TOKEN":{"7417717761:AAH64teeadO27aP-OFlrOVyW9_26IhCWxfo",
     "description":"Put @BotFather Token",
     "required":true},
-    "API_HASH":{
+    "API_HASH":{"e25192e9b357fd3ca3b50a407765eb21",
     "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
     "required":true}},
     "buildpacks": [{"url": "heroku/python"}]}
